@@ -1,0 +1,83 @@
+Timestamp,Event,Severity,Risk,Details,Snapshot
+23:02:35,Multiple faces,CRITICAL,30,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230235_Multiple_faces.jpg
+23:02:39,Multiple faces,CRITICAL,60,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230239_Multiple_faces.jpg
+23:02:43,Multiple faces,CRITICAL,90,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230243_Multiple_faces.jpg
+23:03:21,Multiple faces,CRITICAL,30,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230321_Multiple_faces.jpg
+23:03:25,Multiple faces,CRITICAL,60,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230325_Multiple_faces.jpg
+23:03:29,Multiple faces,CRITICAL,90,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230329_Multiple_faces.jpg
+23:03:33,Multiple faces,CRITICAL,100,4 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230333_Multiple_faces.jpg
+23:03:37,Multiple faces,CRITICAL,100,4 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230337_Multiple_faces.jpg
+23:03:41,Multiple faces,CRITICAL,100,4 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230341_Multiple_faces.jpg
+23:03:45,Multiple faces,CRITICAL,100,4 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230345_Multiple_faces.jpg
+23:03:49,Multiple faces,CRITICAL,100,4 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230349_Multiple_faces.jpg
+23:03:53,Multiple faces,CRITICAL,100,4 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230353_Multiple_faces.jpg
+23:03:57,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230357_Multiple_faces.jpg
+23:04:01,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230401_Multiple_faces.jpg
+23:04:05,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230405_Multiple_faces.jpg
+23:04:10,Multiple faces,CRITICAL,100,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230409_Multiple_faces.jpg
+23:04:14,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230414_Multiple_faces.jpg
+23:04:18,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230418_Multiple_faces.jpg
+23:04:22,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230422_Multiple_faces.jpg
+23:04:26,Multiple faces,CRITICAL,100,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230426_Multiple_faces.jpg
+23:04:26,Looking away,MEDIUM,100,Head direction RIGHT.,
+23:04:30,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230430_Multiple_faces.jpg
+23:04:34,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230434_Multiple_faces.jpg
+23:04:38,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230438_Multiple_faces.jpg
+23:04:42,Multiple faces,CRITICAL,100,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230442_Multiple_faces.jpg
+23:04:46,Multiple faces,CRITICAL,100,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230446_Multiple_faces.jpg
+23:04:51,Multiple faces,CRITICAL,100,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230450_Multiple_faces.jpg
+23:04:54,Multiple faces,CRITICAL,100,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230454_Multiple_faces.jpg
+23:04:58,Multiple faces,CRITICAL,100,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230458_Multiple_faces.jpg
+23:05:03,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230503_Multiple_faces.jpg
+23:05:07,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230507_Multiple_faces.jpg
+23:05:11,Multiple faces,CRITICAL,100,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230511_Multiple_faces.jpg
+23:05:15,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230515_Multiple_faces.jpg
+23:05:19,Multiple faces,CRITICAL,100,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230519_Multiple_faces.jpg
+23:05:23,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230523_Multiple_faces.jpg
+23:05:27,Multiple faces,CRITICAL,100,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230527_Multiple_faces.jpg
+23:05:31,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230531_Multiple_faces.jpg
+23:05:35,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230535_Multiple_faces.jpg
+23:05:39,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230539_Multiple_faces.jpg
+23:05:43,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230543_Multiple_faces.jpg
+23:05:47,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230547_Multiple_faces.jpg
+23:05:51,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230551_Multiple_faces.jpg
+23:05:55,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230555_Multiple_faces.jpg
+23:05:59,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230559_Multiple_faces.jpg
+23:06:03,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230603_Multiple_faces.jpg
+23:06:07,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230607_Multiple_faces.jpg
+23:06:11,Multiple faces,CRITICAL,100,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230611_Multiple_faces.jpg
+23:06:16,Multiple faces,CRITICAL,100,3 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230615_Multiple_faces.jpg
+23:06:20,Multiple faces,CRITICAL,100,2 faces detected.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261022_230620_Multiple_faces.jpg
+00:43:42,Face missing,HIGH,12,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_004342_Face_missing.jpg
+00:43:46,Face missing,HIGH,24,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_004346_Face_missing.jpg
+00:43:51,Face missing,HIGH,36,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_004351_Face_missing.jpg
+00:43:55,Face missing,HIGH,48,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_004355_Face_missing.jpg
+00:43:59,Face missing,HIGH,60,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_004359_Face_missing.jpg
+00:44:03,Face missing,HIGH,72,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_004403_Face_missing.jpg
+00:44:07,Face missing,HIGH,84,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_004407_Face_missing.jpg
+00:44:11,Face missing,HIGH,96,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_004411_Face_missing.jpg
+00:44:15,Face missing,HIGH,100,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_004415_Face_missing.jpg
+00:44:19,Face missing,HIGH,100,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_004419_Face_missing.jpg
+00:59:42,Face missing,HIGH,12,No face detected for more than 2.5 seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_005941_Face_missing.jpg
+00:59:46,Face missing,HIGH,24,No face detected for more than 2.5 seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_005946_Face_missing.jpg
+01:01:52,Face missing,HIGH,12,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_010152_Face_missing.jpg
+01:01:56,Face missing,HIGH,24,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_010156_Face_missing.jpg
+01:02:00,Face missing,HIGH,36,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_010200_Face_missing.jpg
+01:02:04,Face missing,HIGH,48,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_010204_Face_missing.jpg
+01:02:09,Face missing,HIGH,60,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_010208_Face_missing.jpg
+01:02:13,Face missing,HIGH,72,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_010213_Face_missing.jpg
+01:02:17,Face missing,HIGH,84,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_010217_Face_missing.jpg
+01:02:21,Face missing,HIGH,96,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_010221_Face_missing.jpg
+01:02:25,Face missing,HIGH,100,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_010225_Face_missing.jpg
+01:02:29,Face missing,HIGH,100,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_010229_Face_missing.jpg
+01:02:33,Face missing,HIGH,100,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_010233_Face_missing.jpg
+01:16:42,Face missing,HIGH,12,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_011642_Face_missing.jpg
+01:16:46,Face missing,HIGH,24,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_011646_Face_missing.jpg
+01:16:50,Face missing,HIGH,36,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_011650_Face_missing.jpg
+01:16:54,Face missing,HIGH,48,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_011654_Face_missing.jpg
+01:16:58,Face missing,HIGH,60,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_011658_Face_missing.jpg
+01:17:02,Face missing,HIGH,72,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_011702_Face_missing.jpg
+01:17:23,Face missing,HIGH,84,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_011723_Face_missing.jpg
+01:17:27,Face missing,HIGH,96,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_011727_Face_missing.jpg
+01:17:31,Face missing,HIGH,100,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_011731_Face_missing.jpg
+01:17:35,Face missing,HIGH,100,No face detected for 2.5+ seconds.,D:\AI_Exam_Proctor_Vision_FIXED\evidence\20261023_011735_Face_missing.jpg
